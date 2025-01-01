@@ -40,7 +40,3 @@ The models are evaluated using the following metrics:
 
 - **R-squared**: 
   Represents how well the model explains the variance in the target variable. Higher values indicate better model performance.
-
-## Model Comparison
-
-The models are compared based on their performance metrics, and the model with the best results is chosen for final prediction tasks.
